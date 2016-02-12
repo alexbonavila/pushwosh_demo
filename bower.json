@@ -1,0 +1,18 @@
+{
+  "name": "pushwosh_demo",
+  "description": "A Vue.js project",
+  "main": "",
+  "authors": [
+    "alexbonavila <alexbonavila@iesebre.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alexbonavila/pushwosh_demo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
